@@ -19,6 +19,5 @@ This repository contains two projects that leverage the power of SAT solving tec
 Clone the repository and navigate to the `sat_solver` directory to find the implementation.
 
 ```bash
-git clone https://github.com/yourusername/sat-crossword-solver.git
-cd sat-crossword-solver/sat_solver
-python solver.py
+g++ ./main.cpp ./solver.cpp
+./a.exe
